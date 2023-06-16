@@ -23,11 +23,11 @@ This section should contains a simple explanation about the component. The expla
 The component **MUST** have a functional mockup before starting the actual development.
 
 ## Core Features
-### Feature 1
+### 1. Feature
 Each feature before the start of developement should has a clear vision how it will be implemented and any references should be referenced under each feature. 
 
 ## Innovation Features
-### Feature 1
+### 1. Feature
 An innovation feature is a something that ease the user life and is not that necessary. A user may use the program without innovative features. 
 
 ## Installation
